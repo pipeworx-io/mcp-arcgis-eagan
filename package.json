@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-eagan",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "City of Eagan GIS — Eagan, Minnesota open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-2a493458028dc1883bedfe99d4d1d3396d9529afb6fa7205ff5ad468e4a50b37",
-    "sourceCommit": "dca20ba6e13a9aa1c9f2918fc2ddaffe4cc30e5c"
+    "sourceHash": "v1-f06c576540afc602c9cc34131db4b6784bc79e817b96310e08ff4107884ba7e8",
+    "sourceCommit": "351c40908821cfecc9bb2f5849d87bbfdbb26d75"
   }
 }
